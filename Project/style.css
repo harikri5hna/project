@@ -1,0 +1,101 @@
+img{
+	width:140;
+	height:80;
+	position:relative;
+	left:50px;
+	top:10px;
+}
+#sbl{
+	
+	height:70px;
+}
+#b{
+	background-image:url("restaurant3.jpg");
+	background-repeat:no-repeat;	
+}
+#search{
+	height:50px;
+	width:500px;
+	border-radius:10px;
+	
+	}
+#button{
+	height:48px;
+	width:80px;
+	font-size:18px;
+	background-color:#D23232;
+	font-family:arial,sanserif;
+	font-weight:90000;
+	color:f4f4f4;
+	border-radius:5px;
+	
+	
+    border: none;
+    
+   
+   
+    text-decoration: none;
+    display: inline-block;
+   
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+
+#button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#search,#button{
+	position:relative;
+	left:350px;
+	bottom:70px;
+	  border: none;
+	}
+#imagedivision{
+	width:70%;
+	float:left;
+	height:480px;
+	background-color:lightgreen;
+	position:relative;
+	bottom:30px;
+}
+#reviewdivision{
+	width:30%;
+	float:right;
+	height:480px;
+	background-color:lightblue;
+	position:relative;
+	bottom:30px;
+	}
+#links{
+	font-size:20px;
+	text-align:right;
+	position:relative;
+	bottom:35px;
+	right:50px;
+}
+#home,#signin,#signup{
+	width:10px;
+	height:10px;
+	background-color:red;
+}
+#divide1{
+	font-family:arial;
+	padding-top:50px;
+	word-spacing:150px;
+	}
+#divide2{
+	font-family:arial;
+	padding-top:50px;
+	word-spacing:150px
+}
+#a{
+	text-decoration:none;
+	color:white; 	
+	padding: 0px 10px;
+	
+}
